@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f273a265f68f42c4286df70d3dac63e5, type: 3}
+  m_Name: New Comunication Value
+  m_EditorClassIdentifier: 
+  comVs:
+  - firstType: 0
+    secondtype: 0
+    value: 3
+  - firstType: 0
+    secondtype: 2
+    value: -5
+  - firstType: 0
+    secondtype: 3
+    value: 2
+  - firstType: 0
+    secondtype: 5
+    value: 1
+  - firstType: 0
+    secondtype: 1
+    value: 2
+  - firstType: 3
+    secondtype: 2
+    value: -3
+  - firstType: 3
+    secondtype: 1
+    value: 2
+  - firstType: 3
+    secondtype: 0
+    value: 2
+  - firstType: 3
+    secondtype: 3
+    value: 3
+  - firstType: 1
+    secondtype: 0
+    value: 2
+  - firstType: 1
+    secondtype: 3
+    value: 2
+  - firstType: 1
+    secondtype: 2
+    value: -3
+  - firstType: 1
+    secondtype: 1
+    value: 3
+  - firstType: 2
+    secondtype: 0
+    value: -5
+  - firstType: 2
+    secondtype: 1
+    value: -5
+  - firstType: 2
+    secondtype: 3
+    value: -3
+  - firstType: 2
+    secondtype: 5
+    value: 1
+  - firstType: 2
+    secondtype: 2
+    value: 3

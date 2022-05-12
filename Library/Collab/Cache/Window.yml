@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Prefabs/Buildings/Building_NewFlat_Large 1.prefab
+    - Assets/Prefabs/UI/Home.prefab
+    - Assets/Scenes/Level 2.unity
+    - Assets/Scenes/Level 2.unity.meta
+    - Assets/Scenes/Level 3.unity
+    - Assets/Scenes/Level 3.unity.meta
+    - Assets/Scenes/Level1.unity
+    - Assets/Scenes/Tutorial.unity
+    - Assets/Scenes/Tutorial.unity.meta
+    - Assets/Scripts/Buildables/BuildableObjects.cs
+    - Assets/Scripts/CameraEdgeMove.cs
+    - Assets/Scripts/CameraEdgeMove.cs.meta
+    - Assets/Scripts/CameraMovementController.cs
+    - Assets/Scripts/Construction.cs
+    - Assets/Scripts/Level.cs
+    - Assets/Scripts/Logic Systems/BonusSystem.cs
+    - Assets/Scripts/Logic Systems/BuildingSystem.cs
+    - Assets/Scripts/Logic Systems/IsOccupied.cs
+    - Assets/Scripts/Managers/GameManager.cs
+    - Assets/Scripts/Managers/LevelManager.cs
+    - Assets/Scripts/Scriptable Objects/CommunicationValue.cs
+    - Assets/Scripts/Scriptable Objects/TestData.cs
+    - Assets/Scripts/Scriptable Objects/TestData.cs.meta
+    - Assets/Scripts/ScriptableObject/Cafe.asset
+    - Assets/Scripts/ScriptableObject/Cafe.asset.meta
+    - Assets/Scripts/ScriptableObject/Factory.asset
+    - Assets/Scripts/ScriptableObject/Factory.asset.meta
+    - Assets/Scripts/ScriptableObject/Shop.asset
+    - Assets/Scripts/ScriptableObject/Shop.asset.meta
+    - Assets/Scripts/ScriptableObject/apartment.asset
+    - Assets/Scripts/ScriptableObject/apartment.asset.meta
+    - Assets/Scripts/SimpleCameraController.cs
+    - Assets/Scripts/SimpleCameraController.cs.meta
+    - Assets/Scripts/Tutorial.meta
+    - Assets/Scripts/Tutorial/KeyTutorial.cs
+    - Assets/Scripts/Tutorial/KeyTutorial.cs.meta
+    - Assets/Scripts/Tutorial/TextWriter.cs
+    - Assets/Scripts/Tutorial/TextWriter.cs.meta
+    - Assets/Scripts/Tutorial/Tutorial.cs
+    - Assets/Scripts/Tutorial/Tutorial.cs.meta
+    - Assets/Scripts/Tutorial/TutorialActions.cs
+    - Assets/Scripts/Tutorial/TutorialActions.cs.meta
+    - Assets/Scripts/Tutorial/TutorialManager.cs
+    - Assets/Scripts/Tutorial/TutorialManager.cs.meta
+    - Assets/Scripts/UI/ButtonDragHandler.cs
+    - Assets/Scripts/UI/ScoreManager.cs
+    - Assets/Scripts/UI/UIManager.cs
+    - Assets/Scripts/UX/Sound.cs
+    - Assets/Scripts/Utils.meta
+    - Assets/Scripts/Utils/ActionsController.cs
+    - Assets/Scripts/Utils/ActionsController.cs.meta
+    - Assets/Scripts/Utils/UITouchCheck.cs
+    - Assets/Scripts/Utils/UITouchCheck.cs.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
